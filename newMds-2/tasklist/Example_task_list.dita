@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="p7085f9">
+  <title class="- topic/title " outputclass="h1">Example task list</title>
+  <body>
+    <p>This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic.</p>
+    <p>This is a subsection within the topic.</p>
+    <table>
+      <tgroup cols="5">
+        <colspec colname="c1"/>
+        <colspec colname="c2"/>
+        <colspec colname="c3"/>
+        <colspec colname="c4"/>
+        <colspec colname="c5"/>
+        <thead>
+          <row>
+            <entry align="center">Item</entry>
+            <entry align="center">Description</entry>
+            <entry align="center">hello</entry>
+            <entry align="center">hi</entry>
+            <entry align="center">werwer</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry align="center">Apple</entry>
+            <entry align="center">A juicy fruit</entry>
+            <entry align="center">sds</entry>
+            <entry align="center">asd</entry>
+            <entry align="center">sfsdfsdfsdfdsfd sdfsdfddfsdasd</entry>
+          </row>
+          <row>
+            <entry align="center">Orange</entry>
+            <entry align="center">A citrus fruit</entry>
+            <entry align="center">sda</entry>
+            <entry align="center">asd</entry>
+            <entry align="center">e234</entry>
+          </row>
+          <row>
+            <entry align="center">Banana</entry>
+            <entry align="center">A yellow fruit</entry>
+            <entry align="center">we</entry>
+            <entry align="center">qwe</entry>
+            <entry align="center"/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <p>
+      <xref href="../Markdown_Example.dita#pd3e861">This is another cross reference link example</xref>
+    </p>
+  </body>
+</topic>

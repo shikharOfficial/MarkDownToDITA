@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="pe94ba9">
+  <title class="- topic/title " outputclass="h1">Example with Emoji</title>
+  <body>
+    <p>This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic.</p>
+    <p>This is a subsection within the topic.</p>
+    <pre>
+      <codeph>{`{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+`}</codeph>
+    </pre>
+    <table>
+      <tgroup cols="3">
+        <colspec colname="c1"/>
+        <colspec colname="c2"/>
+        <colspec colname="c3"/>
+        <thead>
+          <row>
+            <entry align="center">Product</entry>
+            <entry align="center">Price (USD)</entry>
+            <entry align="center">Quantity</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry align="center">Laptop</entry>
+            <entry align="center">$800</entry>
+            <entry align="center">10</entry>
+          </row>
+          <row>
+            <entry align="center">Smartphone</entry>
+            <entry align="center">$600</entry>
+            <entry align="center">20</entry>
+          </row>
+          <row>
+            <entry align="center">Tablet</entry>
+            <entry align="center">$400</entry>
+            <entry align="center">15</entry>
+          </row>
+          <row>
+            <entry align="center">Headphones</entry>
+            <entry align="center">$100</entry>
+            <entry align="center">30</entry>
+          </row>
+          <row>
+            <entry align="center">Smartwatch</entry>
+            <entry align="center">$300</entry>
+            <entry align="center">25</entry>
+          </row>
+          <row>
+            <entry align="center">Camera</entry>
+            <entry align="center">$700</entry>
+            <entry align="center">8</entry>
+          </row>
+          <row>
+            <entry align="center">Printer</entry>
+            <entry align="center">$200</entry>
+            <entry align="center">12</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <p>At the command prompt, type <codeph>{`nano`}</codeph></p>
+    <p>
+      <xref href="duckduckgo.com" scope="external" format="html">hello</xref>
+    </p>
+    <p>superscript<sup>text</sup>.</p>
+    <p>This is a sample sentence with subscript<sub>text</sub>.</p>
+    <p>*[HTML]: Hyper Text Markup Language</p>
+  </body>
+</topic>
