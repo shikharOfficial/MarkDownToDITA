@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="c635189">
+  <title class="- topic/title " outputclass="h3">Markdown Code syntax</title>
+  <body>
+    <p>Here's an example of Markdown syntax:</p>
+    <pre>
+      <codeph>{`def greet(name):
+    print("Hello, " + name + "!")
+`}</codeph>
+    </pre>
+  </body>
+</topic>
