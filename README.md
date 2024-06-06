@@ -1,2 +1,0 @@
-# Markdown To DITA
-😃
