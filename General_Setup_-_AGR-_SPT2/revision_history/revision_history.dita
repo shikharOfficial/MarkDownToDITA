@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+ PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="d15aAbb">
+   <title>Revision History</title>
+   <body>
+      <table>
+         <tgroup cols="2">
+            <colspec colname="col1" colwidth="45.08%"/>
+            <colspec colname="col2" colwidth="45.08%"/>
+            <tbody>
+               <row>
+                  <entry>
+                     <p>2022-03-17</p>
+                  </entry>
+                  <entry>
+                     <p>Approved by Bob Morin, Global Inspection Network Leader</p>
+                     <p>Original Issue</p>
+                  </entry>
+               </row>
+            </tbody>
+         </tgroup>
+      </table>
+   </body>
+</topic>
