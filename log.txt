@@ -50,5 +50,5 @@ hr
 ***************************************************
 Skipped Files:
 ***************************************************
-/home/metapercept/DITAxPressoWorkspace/6630c217564687404c4fc839/Metr-Markdown-To-Dita/markdown-extracts/newMds-2/images/abc.png
-/home/metapercept/DITAxPressoWorkspace/6630c217564687404c4fc839/Metr-Markdown-To-Dita/markdown-extracts/newMds-2/images/imagabce.png
+/home/metapercept/DITAxPressoWorkspace/6630c217564687404c4fc839/Metr-Markdown-To-Dita/markdown-extracts/Copy/Copy/images/abc.png
+/home/metapercept/DITAxPressoWorkspace/6630c217564687404c4fc839/Metr-Markdown-To-Dita/markdown-extracts/Copy/Copy/images/imagabce.png

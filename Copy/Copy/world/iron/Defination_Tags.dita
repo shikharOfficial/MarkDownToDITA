@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="p4b1b4c">
+  <title class="- topic/title " outputclass="h1">Defination Tags</title>
+  <conbody>
+    <p>Markdown is a lightweight markup language with plain-text formatting syntax.</p>
+    <p>It is designed so that it can be converted to HTML and many</p>
+    <p>other formats using a tool by the same name.</p>
+    <dl>
+      <dlentry>
+        <dt>HTML</dt>
+        <dd>HTML stands for Hypertext Markup Language. It is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.</dd>
+      </dlentry>
+      <dlentry>
+        <dt>CSS</dt>
+        <dd>CSS stands for Cascading Style Sheets. It is a style sheet language used for describing the presentation of a document written in HTML or XML.</dd>
+      </dlentry>
+      <dlentry>
+        <dt>JavaScript</dt>
+        <dd>JavaScript is a programming language that enables you to create dynamically updating content, control multimedia, animate images, and much more, all within a web browser.</dd>
+      </dlentry>
+    </dl>
+    <p>Here is some text with a footnote<fn>This is the footnote content. You can add additional information or references here. </fn>.</p>
+  </conbody>
+</concept>
