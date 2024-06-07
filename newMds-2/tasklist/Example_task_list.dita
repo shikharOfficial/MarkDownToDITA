@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="p833a4a">
+<topic id="pdebda7">
   <title class="- topic/title " outputclass="h1">Example task list</title>
   <body>
     <p>This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic. This is a simple example of a DITA topic.</p>
@@ -47,7 +47,7 @@
       </tgroup>
     </table>
     <p>
-      <xref href="../Markdown_Example.dita#p44fdec">This is another cross reference link example</xref>
+      <xref href="../Markdown_Example.dita#p077ced">This is another cross reference link example</xref>
     </p>
   </body>
 </topic>

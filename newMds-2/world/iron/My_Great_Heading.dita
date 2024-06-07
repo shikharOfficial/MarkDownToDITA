@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="pc19418">
+<topic id="pea2a92">
   <title class="- topic/title " outputclass="h1">My Great Heading</title>
   <body>
     <table>
@@ -42,7 +42,7 @@
     </table>
     <p>You need to have a project with the SMS service. You can create a new project with the SMS service or add the SMS service to an existing project.</p>
     <p>
-      <xref href="../../tasklist/table_example.dita#p0322a9">This is thired cross reference link example</xref>
+      <xref href="../../tasklist/table_example.dita#pd094ca">This is thired cross reference link example</xref>
     </p>
     <p>To create a new project with the SMS service:</p>
     <ol>
